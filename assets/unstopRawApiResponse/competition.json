@@ -1,0 +1,961 @@
+{
+    "data": {
+        "status": true,
+        "competition": {
+            "id": 1595542,
+            "visibility": "public",
+            "theme_colour": "blue_un",
+            "paid": 0,
+            "title": "The Unstoppable Hackathon",
+            "festival_id": null,
+            "organization_id": 1707,
+            "web_url": "hackathon.stability.nexus\/",
+            "start_date": "2025-11-15T00:00:00+05:30",
+            "end_date": "2025-12-11T23:59:00+05:30",
+            "location": null,
+            "type": "hackathons",
+            "public_url": "hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542",
+            "region": "offline",
+            "details": "<p><strong>Powered by:<\/strong> <a href=\"https:\/\/discord.com\/invite\/hjUhu33uAn\"><span style=\"font-weight: 400;\">AOSSIE<\/span><\/a><span style=\"font-weight: 400;\"> | <\/span><a href=\"https:\/\/discord.com\/invite\/YzDKeEfWtS\"><span style=\"font-weight: 400;\">Stability Nexus<\/span><\/a><span style=\"font-weight: 400;\"> | <\/span><a href=\"https:\/\/djed.one\/\"><span style=\"font-weight: 400;\">Djed Alliance<\/span><\/a><span style=\"font-weight: 400;\"> | <\/span><a href=\"https:\/\/lnmiit.ac.in\/coe\/cmlbda\/\"><span style=\"font-weight: 400;\">CML-BDA<\/span><\/a><\/p>\n<p><strong>The Unstoppable Hackathon<\/strong><\/p>\n<ul>\n<li>The Unstoppable Hackathon is a high-intensity, 33-hour challenge hosted at LNMIIT, Jaipur, bringing together developers and researchers to build open-source solutions that advance stability and resilience in decentralised systems.<\/li>\n<li>Over two focused days, participants will collaborate to design and prototype impactful technologies centered around blockchain stability and open-source contribution.<\/li>\n<\/ul>\n<p><strong>Prize Pool:<\/strong> $9,000 (\u20b98,00,000)<\/p>\n<p><strong>Prizes &amp; Opportunities:<\/strong><\/p>\n<ul>\n<li><strong>Spring of Code Selection:<\/strong> The top four teams will earn direct admission into Stability Nexus&rsquo;s 12-week mentorship program, along with a $1,500 (\u20b91,30,000) stipend per team. (For web3\/blockchain-based decentralized projects)<\/li>\n<li><strong>Open-Source Contribution Awards:<\/strong> A $1,000 (\u20b988,000) prize pool will be distributed among exceptional pull requests and high-impact contributions made during the event. <strong>(Pull requests will be towards the organization's blockchain\/web3\/decentralized\/AI&amp;ML projects)<\/strong><\/li>\n<li>The remaining prize allocation will enhance participant experience, including swag kits, free meals, infrastructure, and other amenities.<\/li>\n<li>Prizes are structured to reward depth, sustainability, and technical rigor.<\/li>\n<\/ul>\n<p><strong>Why This Event Matters:<\/strong><\/p>\n<ul>\n<li>The event moves beyond traditional short hackathons by emphasizing long-term impact.<\/li>\n<li>Top-performing teams progress into Stability Nexus&rsquo;s Spring of Code&mdash;an incubation program that helps prototypes mature into production-grade open-source projects.<\/li>\n<li>The hackathon serves as the beginning of a long-term innovation pipeline.<\/li>\n<\/ul>\n<p><strong>Who Should Attend:<\/strong><\/p>\n<ul>\n<li>Open to anyone passionate about building open-source technology.<\/li>\n<li>Ideal for beginners and experienced developers interested in blockchain systems, stability research, distributed technologies, or open-source engineering.<\/li>\n<\/ul>\n<p><strong>What to Expect:<\/strong><\/p>\n<ul>\n<li>A sustained 33-hour development sprint.<\/li>\n<li>Guidance from mentors, including Dr. Bruno Paleo, founder of AOSSIE, Stability Nexus, and the Djed Alliance.<\/li>\n<li>Deep exploration of blockchain robustness, decentralised stability, and practical open-source contribution.<\/li>\n<li>Final prototype presentations to a panel of judges from partnering organisations.<\/li>\n<\/ul>\n<p><strong>How This Event Delivers Value:<\/strong><\/p>\n<ul>\n<li>Extensive hands-on development in a high-energy environment.<\/li>\n<li>Mentorship from top specialists in decentralised systems.<\/li>\n<li>A platform for idea validation, rapid iteration, and expert feedback.<\/li>\n<li>Networking opportunities with researchers, mentors, and open-source communities.<\/li>\n<li>A direct pathway into Stability Nexus&rsquo;s Spring of Code for long-term collaboration.<\/li>\n<li>The event is structured to help projects evolve into scalable, impactful open-source systems.<\/li>\n<\/ul>\n<p><strong>Further Information:<\/strong><\/p>\n<ul>\n<li>Detailed schedules, rules, facilities, judging criteria, submission guidelines, and campus policies are available in the <strong>Unstoppable Hackathon Participant <a href=\"https:\/\/docs.stability.nexus\/about-us\/unstoppable-hackathon\">Handbook<\/a><\/strong><\/li>\n<li>Participants are strongly encouraged to review the handbook before the event.<\/li>\n<li>Follow us on Instagram: @the.unstoppable.hackathon<\/li>\n<\/ul>\n<p><strong>So what's stopping you? Be UNSTOPPABLE.<\/strong><\/p>",
+            "overall_prizes": "Total prizes worth \u20b98 lakhs",
+            "regn_open": 1,
+            "regn_type": 1,
+            "regn_url": null,
+            "regn_email": null,
+            "registration_clicks": 0,
+            "user_id": 7953214,
+            "moderation_status": 1,
+            "overall_leaderboard": 0,
+            "reject_reason": null,
+            "display_date": null,
+            "approved_date": "2025-11-15 18:45:03+05:30",
+            "created_at": "2025-11-14T22:08:37+05:30",
+            "updated_at": "2025-11-24T12:12:09+05:30",
+            "communication_sent": 11,
+            "certificate_at": null,
+            "remarks": null,
+            "branding": 0,
+            "disable_auto_rounds": null,
+            "certificate_config": null,
+            "subtype": "online_coding_challenge",
+            "combined_leaderboard": null,
+            "approved_by": null,
+            "source": null,
+            "short_id": "NuI3pho",
+            "hashtags": null,
+            "participation_certificate": 1,
+            "winner_certificate_at": null,
+            "listed": 1,
+            "self_moderated": 2,
+            "prizes_release_days": 180,
+            "checked": 2,
+            "display_title": null,
+            "show_discussions_only_user": 1,
+            "show_reviews_only_user": 1,
+            "show_score_card": 0,
+            "available_credits": 3000,
+            "total_email_sent": 2440,
+            "email_schedule_count": "11",
+            "players_count": 366,
+            "referral_leaderboard_show": 0,
+            "total_saas_email_sent": 2256,
+            "is_ad_free": 0,
+            "enable_gamify_leaderboard": 0,
+            "approved_as_type": "student",
+            "assessment_credits": 50,
+            "is_protected": 0,
+            "tpo_college_id": null,
+            "publish_at": "2025-11-14 22:26:56",
+            "user_account_id": 412134,
+            "auto_shortlist_trigger": false,
+            "hiring_manager_user_id": 0,
+            "hiring_manager_approval_at": null,
+            "hiring_manager_approval_status": 0,
+            "hiring_manager_reject_reason": null,
+            "rejected_by": null,
+            "rejected_date": null,
+            "is_admin_hosted": false,
+            "linkedInEventId": null,
+            "teams": [],
+            "players": [],
+            "logoUrl": "https:\/\/d8it4huxumps7.cloudfront.net\/uploads\/images\/75x75\/uploadedManual-69175b9edae5c_hackathon_1.png",
+            "logoUrl2": "https:\/\/d8it4huxumps7.cloudfront.net\/uploads\/images\/150x150\/uploadedManual-69175b9edae5c_hackathon_1.png",
+            "regnRequirements": {
+                "id": 2323691,
+                "opportunity_id": 1595542,
+                "festival_id": null,
+                "max_team_size": 3,
+                "min_team_size": 1,
+                "start_regn_dt": "2025-11-15T00:00:00+05:30",
+                "end_regn_dt": "2025-12-02T23:59:00+05:30",
+                "show_deadline": 1,
+                "open_for": 0,
+                "college_type": 0,
+                "same_organisation": 0,
+                "study_year_filter": 0,
+                "deleted_at": null,
+                "eligibility": "{\"sector\":[\"all\"],\"engineering\":[\"allCourses\"],\"bSchools\":[\"allCourses\"],\"arts\":[\"allCourses\"],\"medicine\":[\"allCourses\"],\"law\":[\"allCourses\"],\"others\":[\"allCourses\"],\"experience\":[\"all\"],\"fresherPassoutYearsSelected\":[\"all\"],\"schoolFilteredClasses\":[\"all\"],\"minMarks\":{\"high_school_perc\":0,\"high_school_cgpa\":0},\"locations\":[],\"location_type\":\"all\"}",
+                "gender": [
+                    "A"
+                ],
+                "vendor_id": null,
+                "verified_email": 1,
+                "verified_mobile": 1,
+                "experience": null,
+                "only_official_domains": null,
+                "enable_verifications": null,
+                "enable_icsfile": null,
+                "proctoring": {},
+                "gender_diversity": null,
+                "allow_social_login": 1,
+                "allowed_countries": "[]",
+                "extendRegForm": 1,
+                "screening_round": null,
+                "consent_needed": 0,
+                "invitations_allowed": 1,
+                "registration_limit": null,
+                "same_graduation_year": 0,
+                "same_course": 0,
+                "same_user_type": 0,
+                "can_edit_extended_form": 0,
+                "extend_basic_form": null,
+                "core_req_fields": {
+                    "name": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "email": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "mobile_no": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "country": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "differentlyAbled": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "gender": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "organization": {
+                        "mandatory": true,
+                        "required": true
+                    },
+                    "userType": {
+                        "mandatory": true,
+                        "required": true
+                    }
+                },
+                "enable_draft_reg": false,
+                "closed_job_end_date": 0,
+                "reg_restricted": 0,
+                "free_webinar_for_unstop_pro": 0,
+                "email_reply_to": 0,
+                "verified_aadhaar": 0,
+                "verified_aadhaar_face": 0,
+                "player_extended_form": {
+                    "resume_field": {
+                        "enabled": false,
+                        "pre_defined": false,
+                        "customFields": [
+                            {
+                                "accepted_values": "pdf, doc, docx",
+                                "mandatory": -1,
+                                "remarks": "Submit your resume in doc, docx, pdf",
+                                "title": "Resume",
+                                "type": "file",
+                                "validation_rules": null,
+                                "validations": {
+                                    "max_file_size": 50
+                                },
+                                "uid": "17631383179462"
+                            }
+                        ],
+                        "fieldInfo": {
+                            "required": true,
+                            "title": "additional_data",
+                            "keyName": "preffered_work_location"
+                        },
+                        "default": "fill"
+                    }
+                },
+                "unique_face_verify": false,
+                "resume_parser": 0,
+                "display_compatibility_score": null,
+                "registration_config": null,
+                "verified_driving_licence_face": 0,
+                "verified_aadhaar_face_via_digilocker": 0,
+                "audio_capture": 0,
+                "verification_service": 2,
+                "driver_for_proctoring": "aws",
+                "digilocker_verification_service": 1,
+                "allow_specific_cities": false,
+                "enable_data_transfer_to_SAP": 0,
+                "resume_match_config": "[{\"key\": \"work_experience\", \"label\": \"Work Experience\", \"include\": true, \"is_custom\": false, \"weightage\": 17, \"weight_level\": 1}, {\"key\": \"skills\", \"label\": \"Skills\", \"include\": true, \"is_custom\": false, \"weightage\": 17, \"weight_level\": 1}, {\"key\": \"education\", \"label\": \"Education\", \"include\": true, \"is_custom\": false, \"weightage\": 17, \"weight_level\": 1}, {\"key\": \"achievements\", \"label\": \"Achievements\", \"include\": true, \"is_custom\": false, \"weightage\": 17, \"weight_level\": 1}, {\"key\": \"certifications\", \"label\": \"Certifications\", \"include\": true, \"is_custom\": false, \"weightage\": 16, \"weight_level\": 1}, {\"key\": \"projects\", \"label\": \"Projects\", \"include\": true, \"is_custom\": false, \"weightage\": 16, \"weight_level\": 1}]",
+                "limit_type": 1,
+                "reg_status": "STARTED",
+                "remaining_time": 362754,
+                "remain_days": "4 days left",
+                "allowed_organisations": [],
+                "organisations": [],
+                "attachment": [],
+                "remainingDaysArray": {
+                    "durations": 4,
+                    "text": " days left"
+                }
+            },
+            "seo_url": "https:\/\/unstop.com\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542",
+            "meta_info": {
+                "title": "The Unstoppable Hackathon - 2025",
+                "keyword": "",
+                "description": "Find out the best The Unstoppable Hackathon that match your interests. Prove your mettle and win exciting prizes like job opportunities and cash rewards from...",
+                "sharable_image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/lambda-pdfs\/opportunity-bannerImages\/1763142504.png",
+                "audience": "",
+                "entity_type": "App\\Model\\Opportunity",
+                "entity_id": 1595542,
+                "public_url": null,
+                "keywords": ""
+            },
+            "status": "LIVE",
+            "completedRegisterCount": 366,
+            "opportunityCountries": [],
+            "festival": null,
+            "filters": [
+                {
+                    "id": 406,
+                    "name": "Hackathon",
+                    "type": "category",
+                    "file_name": "code",
+                    "domain_id": 0,
+                    "subtype": null,
+                    "icon_url": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/icons\/color_icons\/code.svg"
+                },
+                {
+                    "id": 420,
+                    "name": "All",
+                    "type": "eligible",
+                    "file_name": "all",
+                    "domain_id": 0,
+                    "subtype": null,
+                    "icon_url": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/icons\/color_icons\/all.svg"
+                }
+            ],
+            "fields": [],
+            "datesToshow": [],
+            "attachment": [],
+            "prizes": [
+                {
+                    "id": 3772865,
+                    "rank": "Prize Pool",
+                    "cash": 800000,
+                    "currency": "fa-rupee",
+                    "certificate": 1,
+                    "entity_id": 1595542,
+                    "entity_type": "App\\Model\\Opportunity",
+                    "others": "Out of the total pool, $7,000 (\u20b96,08,000) will be allocated for prizes, while the remaining prizes will go toward goodies, food coupons, and event amenities.",
+                    "currencyCode": "INR",
+                    "cash_postfix": null,
+                    "max_cash": null,
+                    "pre_placement_internship": 0,
+                    "pre_placement_opportunity": 0
+                }
+            ],
+            "mod_status": "LIVE",
+            "registerCount": 2197,
+            "short_url": "https:\/\/unstop.com\/o\/NuI3pho",
+            "review_details": {
+                "avg_rating": null,
+                "usersCount": 0
+            },
+            "MobilecarouselImages": [],
+            "banner": {
+                "id": 2642410,
+                "filename": "691760ef12f2e_the-unstoppable-hackathon.png",
+                "path": "uploads\/images\/opportunity\/banner\/691760ef12f2e_the-unstoppable-hackathon.png",
+                "image_type": "banner",
+                "image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/uploads\/images\/opportunity\/banner\/691760ef12f2e_the-unstoppable-hackathon.png"
+            },
+            "authors": [],
+            "banner_mobile": {
+                "id": 2642409,
+                "filename": "691760d747bf1_the-unstoppable-hackathon.jpg",
+                "path": "uploads\/images\/opportunity\/mobile_banner\/691760d747bf1_the-unstoppable-hackathon.jpg",
+                "image_type": "mobile_banner",
+                "image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/uploads\/images\/opportunity\/mobile_banner\/691760d747bf1_the-unstoppable-hackathon.jpg"
+            },
+            "all_banner": [],
+            "video": null,
+            "gallery": [],
+            "display_configs": {
+                "id": 1323955,
+                "opportunity_id": 1595542,
+                "header_type": 2,
+                "footer_type": 1,
+                "show_registrations_count": 1,
+                "show_tags": 1,
+                "eligible_colleges": 0,
+                "show_rounds": 1,
+                "show_eligibility": 1,
+                "show_region": 1,
+                "show_get_notified": 1,
+                "show_details": 1,
+                "show_imp_dates": 1,
+                "show_organisers": 1,
+                "show_about_organiser": 1,
+                "show_gallery": 1,
+                "show_ratings": 1,
+                "show_feedbacks": 1,
+                "show_articles": 1,
+                "show_deadline": 1,
+                "disclaimer": 1,
+                "convert_to_job": 0,
+                "show_rounds_data": 1,
+                "displayviewport": null,
+                "design_type": 1,
+                "section_order": null,
+                "show_add_banner": 0,
+                "hide_registration_button": 0,
+                "show_contact_us": 0,
+                "banner_config": "{\"color\":\"color-bg7\",\"text\":\"The Unstoppable Hackathon\",\"type\":7,\"banner_data\":[2]}",
+                "extra_fields": null,
+                "show_organiser_contact": 1,
+                "evaluator_see_all_sideview_rounds": 1,
+                "show_team_size": 1,
+                "enable_webp": 1,
+                "show_ref_banner": 1,
+                "show_impressions": 1,
+                "show_prize": 1,
+                "show_opportunity_menu": 1,
+                "opportunity_theme": "{\"theme\":\"light\",\"bgImage\":\"opportunity_custom_banner_sprite.svg\",\"color\":\"secondary\"}",
+                "show_faq": 1,
+                "group_evaluators": 0
+            },
+            "current_messages": [],
+            "eligible_countries": [],
+            "payment_services": [],
+            "assignTags": {
+                "tag": null
+            },
+            "fullbannerimages": null,
+            "address_with_country_logo": {
+                "id": 1576459,
+                "address": "The LNM Institute of Information Technology",
+                "city": "Jaipur",
+                "state": "Rajasthan",
+                "country": {
+                    "id": 94,
+                    "name": "India",
+                    "alpha_2": "in",
+                    "alpha_3": "ind",
+                    "iso": "IN",
+                    "iso3": "IND",
+                    "numcode": 356,
+                    "phonecode": "+91   ",
+                    "logos": {
+                        "very_small": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/16x16\/in.png",
+                        "small": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/24x24\/in.png",
+                        "medium": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/32x32\/in.png",
+                        "large": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/48x48\/in.png",
+                        "xlarge": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/64x64\/in.png",
+                        "xxlarge": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/flags\/128x128\/in.png"
+                    }
+                },
+                "zip": null,
+                "lat": null,
+                "lng": null,
+                "addressable_id": 1595542,
+                "addressable_type": "App\\Model\\Opportunity",
+                "created_at": "2025-11-14T22:21:35+05:30",
+                "updated_at": "2025-11-22T14:56:55+05:30",
+                "deleted_at": null,
+                "address_title": "event_location",
+                "city_id": 132201,
+                "sort_order": 1
+            },
+            "job_detail": null,
+            "referral_leaderboard_banner": null,
+            "m_referral_leaderboard_banner": null,
+            "skills": [
+                {
+                    "id": 645676,
+                    "skill": "Blockchain Development (Ethereum)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Blockchain Development (Ethereum)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645676,
+                        "id": 2528531,
+                        "ai_generated": true
+                    }
+                },
+                {
+                    "id": 645794,
+                    "skill": "Collaboration Tools",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Collaboration Tools",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645794,
+                        "id": 2528532,
+                        "ai_generated": true
+                    }
+                },
+                {
+                    "id": 645802,
+                    "skill": "Communication Skills",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Communication Skills",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645802,
+                        "id": 2528533,
+                        "ai_generated": true
+                    }
+                },
+                {
+                    "id": 646862,
+                    "skill": "Open Source Intelligence (OSINT)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Open Source Intelligence (OSINT)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646862,
+                        "id": 2528534,
+                        "ai_generated": true
+                    }
+                },
+                {
+                    "id": 643347,
+                    "skill": "Blockchain Technology",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Blockchain Technology",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 643347,
+                        "id": 2528535,
+                        "ai_generated": true
+                    }
+                },
+                {
+                    "id": 645962,
+                    "skill": "Decentralized Finance (DeFi)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Decentralized Finance (DeFi)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645962,
+                        "id": 2528536,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647377,
+                    "skill": "Solidity",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Solidity",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647377,
+                        "id": 2528537,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 645265,
+                    "skill": "TypeScript",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "TypeScript",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645265,
+                        "id": 2528538,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 644778,
+                    "skill": "React.js",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "React.js",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 644778,
+                        "id": 2528539,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647193,
+                    "skill": "Rust (Programming Language)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Rust (Programming Language)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647193,
+                        "id": 2528540,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647330,
+                    "skill": "Smart Contract Development",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Smart Contract Development",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647330,
+                        "id": 2528541,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 646108,
+                    "skill": "Ethers.js",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Ethers.js",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646108,
+                        "id": 2528542,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 643962,
+                    "skill": "Hardhat (Blockchain Development Framework)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Hardhat (Blockchain Development Framework)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 643962,
+                        "id": 2528543,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 643559,
+                    "skill": "Cryptocurrency",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Cryptocurrency",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 643559,
+                        "id": 2528544,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 646746,
+                    "skill": "Mobile Application Development",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Mobile Application Development",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646746,
+                        "id": 2528545,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 645794,
+                    "skill": "Collaboration Tools",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Collaboration Tools",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645794,
+                        "id": 2528546,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 645802,
+                    "skill": "Communication Skills",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Communication Skills",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645802,
+                        "id": 2528547,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 646494,
+                    "skill": "JavaScript",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "JavaScript",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646494,
+                        "id": 2528548,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 643347,
+                    "skill": "Blockchain Technology",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Blockchain Technology",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 643347,
+                        "id": 2528549,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 645580,
+                    "skill": "Artificial Intelligence (AI)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Artificial Intelligence (AI)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 645580,
+                        "id": 2528550,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 646619,
+                    "skill": "Machine Learning Concepts",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Machine Learning Concepts",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646619,
+                        "id": 2528551,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647074,
+                    "skill": "Python",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Python",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647074,
+                        "id": 2528552,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 644745,
+                    "skill": "Python Scientific Libraries (NumPy, SciPy, Pandas)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Python Scientific Libraries (NumPy, SciPy, Pandas)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 644745,
+                        "id": 2528553,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647078,
+                    "skill": "PyTorch",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "PyTorch",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647078,
+                        "id": 2528554,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 647530,
+                    "skill": "TensorFlow",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "TensorFlow",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 647530,
+                        "id": 2528555,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 644289,
+                    "skill": "Machine Learning Optimization",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Machine Learning Optimization",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 644289,
+                        "id": 2528556,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 646809,
+                    "skill": "Neural Networks",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Neural Networks",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 646809,
+                        "id": 2528557,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 644454,
+                    "skill": "Natural Language Processing (NLP)",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Natural Language Processing (NLP)",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 644454,
+                        "id": 2528558,
+                        "ai_generated": false
+                    }
+                },
+                {
+                    "id": 644912,
+                    "skill": "Scikit-learn",
+                    "category": "recommendation_new",
+                    "visible": true,
+                    "domain": null,
+                    "skill_name": "Scikit-learn",
+                    "pivot": {
+                        "entity_id": 1595542,
+                        "subject_id": 644912,
+                        "id": 2528559,
+                        "ai_generated": false
+                    }
+                }
+            ],
+            "workfunction": [],
+            "listing_status": "Live",
+            "locations": [],
+            "contacts": [
+                {
+                    "id": 2270902,
+                    "name": "The Unstoppable Team",
+                    "designation": null,
+                    "contact_no": null,
+                    "contactable_id": 1595542,
+                    "contactable_type": "App\\Model\\Opportunity",
+                    "email": "cybrosclub@lnmiit.ac.in",
+                    "sort_order": 1
+                }
+            ],
+            "seo_details": [
+                {
+                    "id": 1560008,
+                    "entity_id": 1595542,
+                    "entity_type": "App\\Model\\Opportunity",
+                    "title": "The Unstoppable Hackathon - 2025",
+                    "description": "Find out the best The Unstoppable Hackathon that match your interests. Prove your mettle and win exciting prizes like job opportunities and cash rewards from...",
+                    "keywords": "",
+                    "event_type": null,
+                    "event_data": null,
+                    "public_url": null,
+                    "sharable_image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/lambda-pdfs\/opportunity-bannerImages\/1763142504.png"
+                }
+            ],
+            "isUserAdmin": false,
+            "createdByName": "Cybros LNMIIT",
+            "createdByEmail": "cybrosclub@lnmiit.ac.in",
+            "organisation": {
+                "id": 1707,
+                "name": "LNM Institute of Information Technology (LNMIIT), Jaipur",
+                "description": null,
+                "public_url": "c\/lnm-institute-of-information-technology-lnmiit-jaipur-placement-interview-competitions-articles-videos-1707",
+                "logoUrl": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/partners\/partners75\/5aaa299ac310b_unnamed.png",
+                "logoUrl2": "https:\/\/d8it4huxumps7.cloudfront.net\/images\/partners\/partners125\/5aaa299ac310b_unnamed.png",
+                "organisation_type": "3",
+                "wp_tag": null,
+                "seo_url": "https:\/\/unstop.com\/c\/lnm-institute-of-information-technology-lnmiit-jaipur-placement-interview-competitions-articles-videos-1707"
+            },
+            "rounds": [
+                {
+                    "id": 1344189,
+                    "opportunity_id": 1595542,
+                    "entity_id": 1215782,
+                    "entity_type": "App\\Model\\OfflineRound",
+                    "is_inactive": 0,
+                    "is_hidden": 0,
+                    "evaluation_fields": null,
+                    "subtype": null,
+                    "round_order": 1,
+                    "players_count": 708,
+                    "register_window": 1,
+                    "eliminator_round": 1,
+                    "result_flag": 0,
+                    "to_be_announced": null,
+                    "proctoring": null,
+                    "grace_period": 15,
+                    "hide_rounds_data": null,
+                    "hosted_on_d2c": 1,
+                    "parent": null,
+                    "pro_only": false,
+                    "show_round_score": 0,
+                    "show_live_status": 1,
+                    "round_lang": 1,
+                    "live_leaderboard": 0,
+                    "proctoring_group_id": null,
+                    "certificate_at": null,
+                    "winner_certificate_at": null,
+                    "details": [
+                        {
+                            "id": 1215782,
+                            "title": "Screening Round",
+                            "display_text": "Applicants will be advanced to Round 2 strictly based on the authenticity and quality of their GitHub profiles and verified past achievements submitted during registration. All evaluation and selection decisions are final, binding, and not open to reconsideration. Any attempt to submit fake, manipulated, or misleading profiles will result in immediate disqualification and may trigger legal action.",
+                            "start_date": "2025-11-20T00:00:00+05:30",
+                            "end_date": "2025-12-11 23:59:00+05:30",
+                            "who_can_play": 1,
+                            "round_config": null,
+                            "ai_interview_enabled": false,
+                            "status": "LIVE",
+                            "can_evaluate": true,
+                            "seo_data": {
+                                "title": "Screening Round",
+                                "keyword": "",
+                                "description": "Offline Round as part of The Unstoppable Hackathon",
+                                "sharable_image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/lambda-pdfs\/opportunity-bannerImages\/1763142504.png",
+                                "audience": "",
+                                "entity_type": "App\\Model\\Opportunity",
+                                "entity_id": 1595542,
+                                "public_url": "\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215782",
+                                "keywords": "",
+                                "seo_url": "https:\/\/unstop.com\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215782"
+                            },
+                            "public_url": "\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215782\/details",
+                            "images": []
+                        }
+                    ],
+                    "status": "LIVE",
+                    "display_only": true
+                },
+                {
+                    "id": 1344195,
+                    "opportunity_id": 1595542,
+                    "entity_id": 1215786,
+                    "entity_type": "App\\Model\\OfflineRound",
+                    "is_inactive": 0,
+                    "is_hidden": 0,
+                    "evaluation_fields": null,
+                    "subtype": null,
+                    "round_order": 2,
+                    "players_count": 0,
+                    "register_window": 1,
+                    "eliminator_round": 0,
+                    "result_flag": 0,
+                    "to_be_announced": null,
+                    "proctoring": null,
+                    "grace_period": 15,
+                    "hide_rounds_data": null,
+                    "hosted_on_d2c": 1,
+                    "parent": null,
+                    "pro_only": false,
+                    "show_round_score": 0,
+                    "show_live_status": 1,
+                    "round_lang": 1,
+                    "live_leaderboard": 0,
+                    "proctoring_group_id": null,
+                    "certificate_at": null,
+                    "winner_certificate_at": null,
+                    "details": [
+                        {
+                            "id": 1215786,
+                            "title": "Offline Hackathon",
+                            "display_text": "A 33-hour high-intensity hackathon where selected students build real-world open-source and blockchain projects. Shortlisted participants must be physically present at LNMIIT with valid ID for verification.",
+                            "start_date": "2025-12-13T09:00:00+05:30",
+                            "end_date": "2025-12-14 18:00:00+05:30",
+                            "who_can_play": 1,
+                            "round_config": null,
+                            "ai_interview_enabled": false,
+                            "status": "NOT_STARTED",
+                            "can_evaluate": true,
+                            "seo_data": {
+                                "title": "Offline Hackathon",
+                                "keyword": "",
+                                "description": "Offline Round as part of The Unstoppable Hackathon",
+                                "sharable_image_url": "https:\/\/d8it4huxumps7.cloudfront.net\/lambda-pdfs\/opportunity-bannerImages\/1763142504.png",
+                                "audience": "",
+                                "entity_type": "App\\Model\\Opportunity",
+                                "entity_id": 1595542,
+                                "public_url": "\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215786",
+                                "keywords": "",
+                                "seo_url": "https:\/\/unstop.com\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215786"
+                            },
+                            "public_url": "\/hackathons\/the-unstoppable-hackathon-lnm-institute-of-information-technology-lnmiit-jaipur-1595542\/offline-round\/1215786\/details",
+                            "images": []
+                        }
+                    ],
+                    "status": "NOT_STARTED",
+                    "display_only": true
+                }
+            ],
+            "linked_submission": 0,
+            "submissionRound": null,
+            "viewsCount": 100246
+        }
+    }
+}
