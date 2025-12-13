@@ -1,6 +1,7 @@
 import json
 import os
 import time
+import logging
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -28,6 +29,7 @@ def get_daily_count():
             else:
                 return 0  # New day, reset count
     except (json.JSONDecodeError, ValueError):
+        logging.error(f"Error reading {USAGE_FILE}. Resetting count to 0.")
         return 0
 
 
@@ -38,8 +40,11 @@ def increment_daily_count():
 
     new_data = {"date": today, "count": count + 1}
 
-    with open(USAGE_FILE, "w") as f:
-        json.dump(new_data, f)
+    try:
+        with open(USAGE_FILE, "w") as f:
+            json.dump(new_data, f)
+    except IOError as e:
+        logging.error(f"Failed to save usage stats to {USAGE_FILE}: {e}")
 
 
 def check_rate_limits():
@@ -53,18 +58,19 @@ def check_rate_limits():
     # Check RPD
     current_count = get_daily_count()
     if current_count >= MAX_RPD:
-        print(f"Daily limit of {MAX_RPD} requests reached. Skipping...")
+        logging.warning(f"Daily limit of {MAX_RPD} requests reached. Skipping...")
         return False
 
     # Check RPM (simple implementation: ensure min interval between requests)
     # MAX_RPM = 6 means 1 request every 10 seconds
-    min_interval = 60.0 / MAX_RPM
-    elapsed = time.time() - _last_request_time
+    if MAX_RPM > 0:
+        min_interval = 60.0 / MAX_RPM
+        elapsed = time.time() - _last_request_time
 
-    if elapsed < min_interval:
-        sleep_time = min_interval - elapsed
-        print(f"Rate limit: Sleeping for {sleep_time:.2f} seconds...")
-        time.sleep(sleep_time)
+        if elapsed < min_interval:
+            sleep_time = min_interval - elapsed
+            logging.info(f"Rate limit: Sleeping for {sleep_time:.2f} seconds...")
+            time.sleep(sleep_time)
 
     _last_request_time = time.time()
     return True
