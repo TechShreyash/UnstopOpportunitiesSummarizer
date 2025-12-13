@@ -13,7 +13,8 @@ def search_competitions(total_competitions):
         list: A list of competition IDs found.
     """
     logging.info(f"Searching for competitions (limit: {total_competitions})...")
-    url = f"https://unstop.com/api/public/opportunity/search-result?opportunity=all&page=1&per_page={total_competitions}&sortBy=&orderBy=&filter_condition=&sort=prize&dir=desc&undefined=true"
+
+    url = f"https://unstop.com/api/public/opportunity/search-result?opportunity=all&page=1&per_page={total_competitions}&oppstatus=open&sortBy=&orderBy=&filter_condition=&sort=prize&dir=desc&undefined=true"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
