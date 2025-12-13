@@ -1,0 +1,66 @@
+name: Run Python Script and Update Files
+
+# Trigger the workflow on:
+# 1. Schedule: Runs daily at 2:00 AM UTC to avoid high load times
+# 2. Push: When changes are pushed to main
+# 3. Manual: Can be triggered manually via the Actions tab
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+# Grant the action permission to write to the repository
+permissions:
+  contents: write
+
+jobs:
+  run-script-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Check out the code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip' # Enable caching for pip dependencies
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Step 4: Run script
+      - name: Run script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Use repository variables or defaults for rate limits
+          MAX_RPM: ${{ vars.MAX_RPM || '8' }}
+          MAX_RPD: ${{ vars.MAX_RPD || '15' }}
+        run: python main.py
+
+      # Step 5: Commit and Push changes
+      - name: Commit and Push changes
+        run: |
+          # Configure git to use a generic bot user
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Add the specific files you want to update
+          git add db.txt gemini_usage.json
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            # [skip ci] prevents the commit from triggering another workflow run
+            git commit -m "Auto-update files via Python script [skip ci]"
+            git push
+          fi
