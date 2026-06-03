@@ -6,9 +6,9 @@ name: Run Python Script and Update Files
 # 3. Manual: Can be triggered manually via the Actions tab
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 * * * *'
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   workflow_dispatch:
 
 # Grant the action permission to write to the repository
