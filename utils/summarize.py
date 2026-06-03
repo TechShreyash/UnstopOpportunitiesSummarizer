@@ -55,7 +55,7 @@ def summarize_data(data):
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash-lite", contents=prompt
+            model="gemini-3.1-flash-lite", contents=prompt
         )
         usage_tracker.increment_daily_count()
         logging.info("Summary successfully generated.")
